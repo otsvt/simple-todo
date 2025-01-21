@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Тестовый пункт",
+      "completed": false
+    },
+    {
+      "id": "74fb",
+      "completed": false,
+      "text": "fdg"
+    },
+    {
+      "id": "492f",
+      "completed": false,
+      "text": "dgdfgdfg"
+    }
+  ]
+}
